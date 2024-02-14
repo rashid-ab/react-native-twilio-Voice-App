@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877952409459",
+    "project_id": "dev-phone-27ca7",
+    "storage_bucket": "dev-phone-27ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877952409459:android:073d7c6277f6667b1a2f06",
+        "android_client_info": {
+          "package_name": "com.bracketsdevphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAb-FDic47I3u_-zWS6wuQE8ijh-zRR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

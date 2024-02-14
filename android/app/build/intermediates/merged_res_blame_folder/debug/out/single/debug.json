@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_assets_profile_header_dark.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/assets_profile_header_dark.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_assets_icon.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/assets_icon.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_assets_avatar.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/assets_avatar.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_assets_avatars.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/assets_avatars.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_assets_profile_header_light.jpg.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/assets_profile_header_light.jpg"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bracketsdevphone.app-merged_res-48:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "com.bracketsdevphone.app-main-50:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    }
+]

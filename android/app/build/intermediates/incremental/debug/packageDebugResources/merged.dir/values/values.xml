@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="app_name">bracketsdevphone</string>
+    <string name="gcm_defaultSenderId" translatable="false">877952409459</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHAb-FDic47I3u_-zWS6wuQE8ijh-zRR0</string>
+    <string name="google_app_id" translatable="false">1:877952409459:android:073d7c6277f6667b1a2f06</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHAb-FDic47I3u_-zWS6wuQE8ijh-zRR0</string>
+    <string name="google_storage_bucket" translatable="false">dev-phone-27ca7.appspot.com</string>
+    <string name="project_id" translatable="false">dev-phone-27ca7</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>
